@@ -79,21 +79,7 @@ In this system, users select specific points on an image as their password. The 
    - Balance grid resolution for usability and accuracy.
 
 ---
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/image-password-authenticator.git
-   cd image-password-authenticator
-2. Install dependancies:
-   ```bash
-   pip install -r requirements.txt
-3. Run the application:
-   ```bash
-   python
-
-##Usage
+## Usage
 
 1. Registration:
    -Load an image and select grid cells as your password.
@@ -102,21 +88,24 @@ In this system, users select specific points on an image as their password. The 
 3.Visualization:
 -View a heatmap of selected points for confirmation.
 
-##Future Enhancements
+---
+
+## Future Enhancements
 
 1. Multi-Image Passwords: Support for selecting points across multiple images.
 2. Adaptive Grid Sizes: Allow users to customize grid dimensions.
 3. Enhanced Security: Implement algorithms to discourage hotspot selection.
+---
+## License
 
-##License
 This project is licensed under the MIT License.
-
+---
 ##Contributing
+
 We welcome contributions! Please fork the repository and submit a pull request with your changes.
-
-##Contact
+---
+## Contact
 For questions or feedback, please reach out at [rahulbasava21@gmail.com].
-
 
 
 Let me know if you need any further adjustments!
