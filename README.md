@@ -1,9 +1,8 @@
-# Image-Password-Authenticator
-# Image Password Analyzer
+# Image Password Authenticator
 
 ## Overview
 
-As digital security awareness increases, the need for innovative authentication methods becomes critical. The **Image Password Analyzer** offers an alternative to traditional text-based passwords by utilizing graphical or grid-based password authentication. This approach leverages human spatial and visual memory to create memorable and secure passwords.
+As digital security awareness increases, the need for innovative authentication methods becomes critical. The **Image Password Authenticator** offers an alternative to traditional text-based passwords by utilizing graphical or grid-based password authentication. This approach leverages human spatial and visual memory to create memorable and secure passwords.
 
 In this system, users select specific points on an image as their password. The system records these points, creating a unique password pattern. To authenticate, users must repeat the sequence, ensuring both usability and security.
 
@@ -85,5 +84,40 @@ In this system, users select specific points on an image as their password. The 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rahulbasava21/image-password-analyzer.git
-   cd image-password-analyzer
+   git clone https://github.com/your-username/image-password-authenticator.git
+   cd image-password-authenticator
+2. Install dependancies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   python
+
+##Usage
+
+1. Registration:
+   -Load an image and select grid cells as your password.
+2. Authentication:
+   -Re-select the same grid cells during login.
+3.Visualization:
+-View a heatmap of selected points for confirmation.
+
+##Future Enhancements
+
+1. Multi-Image Passwords: Support for selecting points across multiple images.
+2. Adaptive Grid Sizes: Allow users to customize grid dimensions.
+3. Enhanced Security: Implement algorithms to discourage hotspot selection.
+
+##License
+This project is licensed under the MIT License.
+
+##Contributing
+We welcome contributions! Please fork the repository and submit a pull request with your changes.
+
+##Contact
+For questions or feedback, please reach out at [rahulbasava21@gmail.com].
+
+
+
+Let me know if you need any further adjustments!
+
