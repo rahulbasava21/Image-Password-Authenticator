@@ -99,14 +99,14 @@ In this system, users select specific points on an image as their password. The 
 ## License
 
 This project is licensed under the MIT License.
+
 ---
-##Contributing
+## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request with your changes.
----
+
 ## Contact
 For questions or feedback, please reach out at [rahulbasava21@gmail.com].
 
 
-Let me know if you need any further adjustments!
 
